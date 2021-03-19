@@ -1,7 +1,5 @@
 ### 👋 My Name is Rob - refer to me as He/Him please 
 
-<p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=sqldbawithabeard.visitor-badge"></p>
-
 :revolving_hearts: [Sponsor Me](https://github.com/sponsors/sqldbawithabeard)  
 
 I'm a consultant who loves to automate solutions for Microsoft Azure Data systems.
@@ -23,3 +21,5 @@ I'm a consultant who loves to automate solutions for Microsoft Azure Data system
   - [Data Saturdays](https://github.com/sqlcollaborative/DataSaturdays)
 - ⚡ ALL my presentations slides and code - [Presentations](https://github.com/SQLDBAWithABeard/Presentations)
 - ⚡ My Jupyter Notebooks repository - [Jupyter Notebooks ](https://github.com/SQLDBAWithABeard/JupyterNotebooks)
+
+<p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=sqldbawithabeard.visitor-badge"></p>

@@ -1,14 +1,15 @@
-### My Name is Rob refer to me as He/Him👋
+### 👋 My Name is Rob - refer to me as He/Him please 
 
 <p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=sqldbawithabeard.visitor-badge"></p>
 
-:revolving_hearts: [Sponsor Me](https://github.com/sponsors/sqldbawithabeard)
+:revolving_hearts: [Sponsor Me](https://github.com/sponsors/sqldbawithabeard)  
 
-GitHub Sponsor
 I'm a consultant who loves to automate solutions for Microsoft Azure Data systems.
 
 - 🏠 I write words at https://blog.robsewell.com
 - 🎤 I love to speak at events - My speaker profile and current sessions is at https://sessionize.com/rob-sewell
+- 🎤 I occasionally stream https://robsewell.live 
+- 🎤 My YoutTube channel https://beard.media/youtube
 
 - 📫 How to reach me:
   - [🕊 - Twitter](https://twitter.com/sqldbawithbeard/)
@@ -21,4 +22,4 @@ I'm a consultant who loves to automate solutions for Microsoft Azure Data system
   - [dbachecks](https://github.com/sqlcollaborative/dbachecks)
   - [Data Saturdays](https://github.com/sqlcollaborative/DataSaturdays)
 - ⚡ ALL my presentations slides and code - [Presentations](https://github.com/SQLDBAWithABeard/Presentations)
--  My Jupyter Notebooks repository - [Jupyter Notebooks ](https://github.com/SQLDBAWithABeard/JupyterNotebooks)
+- ⚡ My Jupyter Notebooks repository - [Jupyter Notebooks ](https://github.com/SQLDBAWithABeard/JupyterNotebooks)

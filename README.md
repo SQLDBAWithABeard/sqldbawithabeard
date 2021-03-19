@@ -1,7 +1,8 @@
 ### My Name is Rob refer to me as He/Him👋
 
 <p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=sqldbawithabeard.visitor-badge"></p>
-[:heart: Sponsor](https://github.com/sponsors/sqldbawithabeard)
+
+:revolving_hearts: [Sponsor Me](https://github.com/sponsors/sqldbawithabeard)
 
 GitHub Sponsor
 I'm a consultant who loves to automate solutions for Microsoft Azure Data systems.

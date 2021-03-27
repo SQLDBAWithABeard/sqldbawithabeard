@@ -5,9 +5,9 @@
 I'm a consultant who loves to automate solutions for Microsoft Azure Data systems.
 
 - 🏠 I write words at https://blog.robsewell.com
-- 🎤 I love to speak at events - My speaker profile and current sessions is at https://sessionize.com/rob-sewell
+- 🎤 I love to speak at events - My speaker profile and current sessions are at https://sessionize.com/rob-sewell
 - 🎤 I occasionally stream https://robsewell.live 
-- 🎤 My YoutTube channel https://beard.media/youtube
+- 🎤 My YouTube channel https://beard.media/youtube
 
 - 📫 How to reach me:
   - [🕊 - Twitter](https://twitter.com/sqldbawithbeard/)

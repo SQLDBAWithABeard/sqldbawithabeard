@@ -6,7 +6,7 @@ I'm a consultant who loves to automate solutions for Microsoft Azure Data system
 
 - 🏠 I write words at https://blog.robsewell.com
 - 🎤 I love to speak at events - My speaker profile and current sessions are at https://sessionize.com/rob-sewell
-- 🎤 I occasionally stream https://robsewell.live 
+- 🎤 I occasionally stream 
 - 🎤 My YouTube channel https://beard.media/youtube
 
 - 📫 How to reach me:

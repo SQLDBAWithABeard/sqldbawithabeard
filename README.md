@@ -4,7 +4,7 @@
 
 I'm a consultant who loves to automate solutions for Microsoft Azure Data systems.
 
-[![Robs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqldbawithabeard&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Robs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqldbawithabeard&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🏠 I write words at https://blog.robsewell.com
 - 🎤 I love to speak at events - My speaker profile and current sessions are at https://sessionize.com/rob-sewell

@@ -16,6 +16,8 @@ I'm a consultant who loves to automate solutions for Microsoft Azure Data system
   - [🏢 - LinkedIn](https://www.linkedin.com/in/robsewellsqldba/)
   - [🦑 - GitHub](https://github.com/sqldbawithbeard)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqldbawithabeard&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I work with PowerShell, SQL, Azure, containers, terraform, Azure DevOps, Jupyter Notebooks
 - 🔭 Projects I’m currently working on 
   - [dbatools](https://github.com/sqlcollaborative/dbatools)

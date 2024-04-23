@@ -24,7 +24,7 @@ I was a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL
 
 - 📫 How to reach me:
   - [ 🕊  Twitter](https://twitter.com/sqldbawithbeard/)
-  - [🏢 LinkedIn](https://www.linkedin.com/in/robsewellsqldba/)
+  - [🏢 LinkedIn](https://www.linkedin.com/in/robmsewell/)
   - [🦑 GitHub](https://github.com/sqldbawithbeard)
 
 - 🏠 co-leader of [Data South West UK](https://www.meetup.com/data-south-west-uk/) 

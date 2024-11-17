@@ -27,7 +27,6 @@ I was a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL
   - [🏢 LinkedIn](https://www.linkedin.com/in/robmsewell/)
   - [🦑 GitHub](https://github.com/sqldbawithbeard)
 
-- 🏠 co-leader of [Data South West UK](https://www.meetup.com/data-south-west-uk/) 
 - [PSConfEU organiser](https://psconf.eu) 
 - spoken at and volunteered at many Data and PowerShell events all over the world. 
 - proud supporter of the Data and Powershell communities.
@@ -36,7 +35,6 @@ I was a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL
 
 - 🌱 I'm a consultant who loves to automate solutions for Microsoft Azure Data systems.
 - 🌱 I work with People, PowerShell, SQL, Azure, Bicep, Containers, Terraform, Azure DevOps, Jupyter Notebooks
-
 
 
 <p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=sqldbawithabeard.visitor-badge"></p>

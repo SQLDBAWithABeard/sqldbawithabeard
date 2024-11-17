@@ -23,7 +23,7 @@ I was a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL
 - 🎤 My YouTube channel https://beard.media/youtube
 
 - 📫 How to reach me:
-  - [ 🕊  Twitter](https://twitter.com/sqldbawithbeard/)
+  - [🦋 BlueSky](https://bsky.app/profile/robsewell.com))
   - [🏢 LinkedIn](https://www.linkedin.com/in/robmsewell/)
   - [🦑 GitHub](https://github.com/sqldbawithbeard)
 

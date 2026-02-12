@@ -28,7 +28,10 @@ I was a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL
   - [🦑 GitHub](https://github.com/sqldbawithbeard)
 
 - [PSConfEU organiser](https://psconf.eu) 
-- spoken at and volunteered at many Data and PowerShell events all over the world. 
+- spoken at and volunteered at many Data and PowerShell events all over the world.
+![LARGE inverted Beard Log PurpleWhite](https://github.com/user-attachments/assets/0348c2bd-6335-4664-87ae-144e64c30b23)
+
+
 - proud supporter of the Data and Powershell communities.
 
 ## Rob at Work

@@ -13,8 +13,7 @@ I was a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL
 - ⚡ ALL my presentations slides and code - [Presentations](https://github.com/SQLDBAWithABeard/Presentations)
 - ⚡ My Jupyter Notebooks repository - [Jupyter Notebooks ](https://github.com/SQLDBAWithABeard/JupyterNotebooks)
 
-[![Robs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqldbawithabeard&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sqldbawithabeard?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ## Rob in the Community
 
 - 🏠 I write words at https://blog.robsewell.com
